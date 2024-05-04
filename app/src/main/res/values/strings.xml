@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TugasModul6</string>
+    <string-array name="judul"/>
+    <string-array name="penyanyi"/>
+</resources>
